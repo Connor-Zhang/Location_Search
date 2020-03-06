@@ -1,0 +1,7 @@
+.settings/*
+target/*
+/.settings
+/target
+.classpath
+.project
+firebase-admin-sdk.json
